@@ -1,6 +1,6 @@
 # CRM-System
 
-Hello, this demo represents a small SRM-system for managing bid requests to IT-courses on number of topics. 
+Hello, this demo represents a small SRM-system for managing bid requests to online school. 
 
 Test data is connected to the form of adding requests for testing and showcase purposes. 
 
